@@ -1,3 +1,4 @@
 <?php
 
-hey Maro
+ echo "hey Maro";
+ 
