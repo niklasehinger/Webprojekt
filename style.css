@@ -1,5 +1,13 @@
+body {
+    font-family: arial, sans-serif;
+    max-width: 200em;
+    background: linear-gradient(#cba, darkslategrey);
+    margin: 0%,auto;
+
+}
 h1 {
     color: #fff;
     text-decoration: underline;
-    background-color: cornflowerblue;
+    background-color: gold;
+    text-blink: 10%;
 }
