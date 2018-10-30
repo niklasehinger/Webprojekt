@@ -1,13 +1,13 @@
 body {
     font-family: arial, sans-serif;
     max-width: 200em;
-    background: linear-gradient(#cba, darkslategrey);
+    background: aliceblue;
     margin: 0%,auto;
 
 }
 h1 {
     color: #fff;
     text-decoration: underline;
-    background-color: gold;
+    background-color: antiquewhite;
     text-blink: 10%;
 }
