@@ -9,6 +9,7 @@ h1 {
     text-decoration: underline;
     background-color: antiquewhite;
     text-blink: 10%;
+    margin: 0%,auto;
 }
 
 .header {
